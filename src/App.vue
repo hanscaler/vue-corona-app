@@ -24,9 +24,9 @@ export default {
         label: "대시보드",
         index: "Dashboard",
         path: "main",
-      }
-    }
-  }
+      },
+    };
+  },
 }
 </script>
 

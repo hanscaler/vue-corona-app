@@ -41,11 +41,6 @@ export default {
             {label: "국가별 요약", index: "InternationalCases", path: "corona"},
             {label: "국내 요약", index: "DomesticCases", path: "corona"}
         ]},
-        {label: "코로나 분석", index: "corona-analysis", icon:"setting", 
-        submenus: [
-            {label: "샘플메뉴1", index: "sample1", path: "corona"},
-            {label: "샘플메뉴2", index: "sample2", path: "corona"}
-        ]},
       ],
       });
 
